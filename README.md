@@ -32,7 +32,8 @@ Cria um novo log de ação.
 
 ---
 
-🧪 Testes com o Postman
+###🧪 Testes com o Postman
+
 Foram realizados testes com os métodos GET e POST, incluindo:
 
 Registro de logs com dados variados.
@@ -45,7 +46,7 @@ As requisições foram salvas em uma coleção do Postman e exportadas no format
 
 --- 
 
-##✅ Como Executar o Projeto
+###✅ Como Executar o Projeto
 
 1) Clone o repositório: git clone https://github.com/Iarafarias/api-user-logs.git
 cd api-user-logs
@@ -56,7 +57,7 @@ A API será iniciada em https://localhost:port (a porta será exibida no termina
 
 3) Use o Postman para testar os endpoints.
 
-## 📂 Exportação da Coleção
+### 📂 Exportação da Coleção
 
 A coleção de testes do Postman se encontra dentro da pasta /postman com o nome:
 
